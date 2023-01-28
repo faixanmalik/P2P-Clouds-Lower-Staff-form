@@ -1,11 +1,11 @@
 
 import './App.css';
-import LowerStaffData from './components/lowerStaffForm';
+import CourseFormData from './components/courseForm';
 
 function App() {
   return (
     <>
-      <LowerStaffData/>
+      <CourseFormData/>
     </>
   );
 }
